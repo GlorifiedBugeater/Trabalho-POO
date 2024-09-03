@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE12E15-28BC-41EC-B636-69BEA5F22019}|PalindromoTest\\NumeroPalindromoTest.csproj|c:\\users\\renat\\downloads\\trabalhopoo\\trabalhopoo\\palindromotest\\palindromotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE12E15-28BC-41EC-B636-69BEA5F22019}|PalindromoTest\\NumeroPalindromoTest.csproj|solutionrelative:palindromotest\\palindromotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD6C2B-2CA7-4D88-A3CB-3A9712F89531}|NumeroPalindromo\\NumeroPalindromo.csproj|c:\\users\\renat\\downloads\\trabalhopoo\\trabalhopoo\\numeropalindromo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD6C2B-2CA7-4D88-A3CB-3A9712F89531}|NumeroPalindromo\\NumeroPalindromo.csproj|solutionrelative:numeropalindromo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD6C2B-2CA7-4D88-A3CB-3A9712F89531}|NumeroPalindromo\\NumeroPalindromo.csproj|c:\\users\\renat\\downloads\\trabalhopoo\\trabalhopoo\\numeropalindromo\\numeropalindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD6C2B-2CA7-4D88-A3CB-3A9712F89531}|NumeroPalindromo\\NumeroPalindromo.csproj|solutionrelative:numeropalindromo\\numeropalindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C403662D-49F0-4844-B511-F03706B26772}|TrabalhoTest\\AdivinharNumeroTest.csproj|c:\\users\\renat\\downloads\\trabalhopoo\\trabalhopoo\\trabalhotest\\adivinhatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C403662D-49F0-4844-B511-F03706B26772}|TrabalhoTest\\AdivinharNumeroTest.csproj|solutionrelative:trabalhotest\\adivinhatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E46756C-27CB-4D90-9BDF-04C6ED2A3AB4}|AdivinharNumero\\AdivinharNumero.csproj|c:\\users\\renat\\downloads\\trabalhopoo\\trabalhopoo\\adivinharnumero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E46756C-27CB-4D90-9BDF-04C6ED2A3AB4}|AdivinharNumero\\AdivinharNumero.csproj|solutionrelative:adivinharnumero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E46756C-27CB-4D90-9BDF-04C6ED2A3AB4}|AdivinharNumero\\AdivinharNumero.csproj|c:\\users\\renat\\downloads\\trabalhopoo\\trabalhopoo\\adivinharnumero\\adivinharnumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E46756C-27CB-4D90-9BDF-04C6ED2A3AB4}|AdivinharNumero\\AdivinharNumero.csproj|solutionrelative:adivinharnumero\\adivinharnumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C403662D-49F0-4844-B511-F03706B26772}|TrabalhoTest\\AdivinharNumeroTest.csproj|c:\\users\\renat\\downloads\\trabalhopoo\\trabalhopoo\\trabalhotest\\adivinharnumerotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C403662D-49F0-4844-B511-F03706B26772}|TrabalhoTest\\AdivinharNumeroTest.csproj|solutionrelative:trabalhotest\\adivinharnumerotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalindromoTest.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\PalindromoTest\\PalindromoTest.cs",
+              "RelativeDocumentMoniker": "PalindromoTest\\PalindromoTest.cs",
+              "ToolTip": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\PalindromoTest\\PalindromoTest.cs",
+              "RelativeToolTip": "PalindromoTest\\PalindromoTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:17:54.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\NumeroPalindromo\\Program.cs",
+              "RelativeDocumentMoniker": "NumeroPalindromo\\Program.cs",
+              "ToolTip": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\NumeroPalindromo\\Program.cs",
+              "RelativeToolTip": "NumeroPalindromo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:12:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdivinhaTest.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\TrabalhoTest\\AdivinhaTest.cs",
+              "RelativeDocumentMoniker": "TrabalhoTest\\AdivinhaTest.cs",
+              "ToolTip": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\TrabalhoTest\\AdivinhaTest.cs",
+              "RelativeToolTip": "TrabalhoTest\\AdivinhaTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:32:20.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdivinharNumero.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\AdivinharNumero\\AdivinharNumero.cs",
+              "RelativeDocumentMoniker": "AdivinharNumero\\AdivinharNumero.cs",
+              "ToolTip": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\AdivinharNumero\\AdivinharNumero.cs",
+              "RelativeToolTip": "AdivinharNumero\\AdivinharNumero.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:24:42.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\AdivinharNumero\\Program.cs",
+              "RelativeDocumentMoniker": "AdivinharNumero\\Program.cs",
+              "ToolTip": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\AdivinharNumero\\Program.cs",
+              "RelativeToolTip": "AdivinharNumero\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:23:03.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumeroPalindromo.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\NumeroPalindromo\\NumeroPalindromo.cs",
+              "RelativeDocumentMoniker": "NumeroPalindromo\\NumeroPalindromo.cs",
+              "ToolTip": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\NumeroPalindromo\\NumeroPalindromo.cs",
+              "RelativeToolTip": "NumeroPalindromo\\NumeroPalindromo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:15:38.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdivinharNumeroTest.csproj",
+              "DocumentMoniker": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\TrabalhoTest\\AdivinharNumeroTest.csproj",
+              "RelativeDocumentMoniker": "TrabalhoTest\\AdivinharNumeroTest.csproj",
+              "ToolTip": "C:\\Users\\renat\\Downloads\\TrabalhoPOO\\TrabalhoPOO\\TrabalhoTest\\AdivinharNumeroTest.csproj",
+              "RelativeToolTip": "TrabalhoTest\\AdivinharNumeroTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T18:30:46.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
